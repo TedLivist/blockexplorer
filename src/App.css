@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+  width:fit-content;
+  justify-self: center;
+}
+
+.cursor-pointer:hover {
+  background-color: rgb(111, 111, 230);
+}
+
+.nav-item {
+  padding: 0rem 2rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
